@@ -12,7 +12,7 @@
             "@protected": true,
             "id": "@id",
             "type": "@type",
-            "kyc-vocab": "https://github.com/iden3/claim-schema-vocab/blob/main/credentials/kyc.md#",
+            "kyc-vocab": "https://github.com/harshbhatt01/Credential-template/blob/main/kyc.md#",
             "xsd": "http://www.w3.org/2001/XMLSchema#",
             "birthday": {
               "@id": "kyc-vocab:birthday",
@@ -25,13 +25,13 @@
           }
         },
         "KYCCountryOfResidenceCredential": {
-          "@id": "https://raw.githubusercontent.com/harshbhatt01/Credential-template/json-ld/kyc.json-ld#KYCCountryOfResidenceCredential",
+          "@id": "https://raw.githubusercontent.com/harshbhatt01/Credential-template/json-ld/kyc.json#KYCCountryOfResidenceCredential",
           "@context": {
             "@version": 1.1,
             "@protected": true,
             "id": "@id",
             "type": "@type",
-            "kyc-vocab": "https://github.com/iden3/claim-schema-vocab/blob/main/credentials/kyc.md#",
+            "kyc-vocab": "https://github.com/harshbhatt01/Credential-template/blob/main/kyc.md#",
             "xsd": "http://www.w3.org/2001/XMLSchema#",
             "countryCode": {
               "@id": "kyc-vocab:countryCode",
